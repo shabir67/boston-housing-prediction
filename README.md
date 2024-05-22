@@ -1,6 +1,6 @@
-# boston-housing-prediction
+# Boston-Housing-Prediction
 
 ## TODO : 
-## 1.Implement StandardScaler 
-## Use all the train data 
-## Test using spearated data 
+1. Implement StandardScaler 
+2. Use all the train data 
+3. Test using spearated data 
